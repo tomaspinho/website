@@ -1,0 +1,8 @@
+title: System Administrator @RNL
+description: [
+  "In November of 2013, I started a research grant at RNL - Rede Informática do DEI - which is the unit responsible for the laboratories of the Computer Engineering Department of Instituto Superior Técnico."
+, "My responsabilties included the administration of 90+ computers running OpenSUSE Linux (formerly Debian) through the use of Ansible (formerly Puppet), making custom Debian packages and in-house scripts for other maintenance tasks."
+, "This position expanded my knowledge of System Administration, DevOps, Network Security and disaster recovery."
+]
+
+img: rnl.png

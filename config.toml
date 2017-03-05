@@ -45,7 +45,7 @@ theme = "hugo-freelancer-theme"
 
 "This page serves as my home on the Internet of Things (and people) and contains a professional and somewhat personal profile of myself.",
 
-"Check out my <a href=\"assets/cv-en.pdf\" target=\"_blank\">CV <i class=\"fa fa-file-pdf-o red\"></i></a>"
+"Check out my <a href=\"cv-en.pdf\" target=\"_blank\">CV <i class=\"fa fa-file-pdf-o red\"></i></a>"
         ]
 
 

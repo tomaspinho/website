@@ -2,7 +2,7 @@ languageCode = "en-us"
 title = "Tomás Pinho"
 baseurl = "http://www.tomaspinho.com/"
 theme = "hugo-freelancer-theme"
-
+publishDir = "docs"
 
 [params]
 

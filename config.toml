@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Tomás Pinho"
-baseurl = "http://www.tomaspinho.com/"
+baseurl = "https://www.tomaspinho.com/"
 theme = "hugo-freelancer-theme"
 publishDir = "docs"
 
@@ -41,9 +41,7 @@ publishDir = "docs"
         name = "Tomás Pinho"
         subtitle = "SysAdmin/DevOps Engineer"
         description = [
-"I am a Computer and Informatics Engineer based in Lisbon, Portugal, tech enthusiast, DIYer, music lover and avid reader.",
-
-"This page serves as my home on the Internet of Things (and people) and contains a professional and somewhat personal profile of myself.",
+"I am a Computer and Informatics Engineer based in Lisbon, Portugal, tech enthusiast, DIYer, music lover and reader.",
 
 "Check out my <a href=\"cv-en.pdf\" target=\"_blank\">CV <i class=\"fa fa-file-pdf-o red\"></i></a>"
         ]

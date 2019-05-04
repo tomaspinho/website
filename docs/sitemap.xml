@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.tomaspinho.com/categories/</loc>
+    <loc>https://www.tomaspinho.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.tomaspinho.com/tags/</loc>
+    <loc>https://www.tomaspinho.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.tomaspinho.com/</loc>
+    <loc>https://www.tomaspinho.com/</loc>
     <priority>0</priority>
   </url>
   

@@ -1,7 +1,0 @@
-title: Security Research @Spare time
-description: [
-  "Network and application security interest me a great deal and I sometimes check portuguese websites for vulnerabilities and report them to the relevant parties. Sometimes, they only thank me, sometimes they send me gifts to compensate for my findings."
-, "The portuguese internet is plagged by SQL injection vulnerabilties, misconfigured webservers, outdated packages and information disclosure vulnerabilities. This happens because companies entered the race to have internet recognition in the early 2000s, hired webdesign services and then left the websites online without periodic maintenance and refactoring."
-]
-
-img: heartbleed.png

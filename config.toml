@@ -29,7 +29,10 @@ publishDir = "docs"
 
     # Custom assets
 	custom_css = []
-	custom_js  = []
+    custom_js  = []
+
+    # Analytics
+	ga_id  = "UA-51157507-1"
 
     [params.navigation]
         brand = "Tomás Pinho"

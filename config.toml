@@ -88,7 +88,7 @@ publishDir = "docs"
             icon = "download"
 
     [params.footer]
-        copyright = "Copyright © Tomás Pinho [2017, +OO]."
+        copyright = "Copyright © Tomás Pinho [2017, +∞]."
 
         [params.footer.location]
             title = "Contact me"

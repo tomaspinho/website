@@ -2,5 +2,5 @@ title: Systems Administrator @Optylon
 description: [
   "From August 2016 to March 2017, I worked as a Systems Administrator for Optylon, a start-up that aims to optimize the short-term rental market via software. I was responsible for automating deployments, continuous integration, collecting and analyzing logs, information security and the development of a few internal tools in Python and Node.js."
 ]
-
+date: 20160801
 img: optylon.jpg

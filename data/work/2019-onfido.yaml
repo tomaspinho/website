@@ -2,5 +2,5 @@ title: DevOps Engineer @Onfido
 description: [
   "From March 2019 onwards, I've been working as a DevOps Engineer for Onfido, a British start-up that aims to become the identity standard for the internet, assessing if a user’s government-issued ID is genuine or fraudulent and if they are who they claim to be by comparing their ID against their facial biometrics. Working with Kubernetes, Terraform among others."
 ]
-
+date: 20190301
 img: onfido.png

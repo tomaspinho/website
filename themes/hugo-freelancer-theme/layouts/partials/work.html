@@ -1,35 +1,35 @@
 {{ "<!-- Work Section -->" | safeHTML }}
 <section id="work">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2>{{ .Site.Params.work.title }}</h2>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>{{ .Site.Params.work.title }}</h2>
 
-                {{ range $index, $el := sort .Site.Data.work }}
-                <div class="row mt center-row">
-                  {{ if (eq (mod $index 2) 0) }}
-                  <div class="col-lg-6 center">
-                  {{ else }}
-                  <div class="col-lg-6 col-lg-push-6 center">
-                  {{ end }}
-                    <img width="100%" src="img/work/{{ $el.img }}">
-                  </div>
-
-                  {{ if (eq (mod $index 2) 0) }}
-                  <div class="col-lg-6 center">
-                  {{ else }}
-                  <div class="col-lg-6 col-lg-pull-6 center">
-                  {{ end }}
-                    <h4>{{ $el.title }}</h4>
-                    <div>
-                      {{ range $el.description }}
-                      <p>{{ . }}</p>
-                      {{ end }}
-                    </div>
-                  </div>
-                </div>
-                {{ end }}
+        {{ range $index, $el := sort .Site.Data.work "date" "desc" }}
+        <div class="row mt center-row">
+          {{ if (eq (mod $index 2) 0) }}
+          <div class="col-lg-6 center">
+            {{ else }}
+            <div class="col-lg-6 col-lg-push-6 center">
+              {{ end }}
+              <img width="100%" src="img/work/{{ $el.img }}">
             </div>
+
+            {{ if (eq (mod $index 2) 0) }}
+            <div class="col-lg-6 center">
+              {{ else }}
+              <div class="col-lg-6 col-lg-pull-6 center">
+                {{ end }}
+                <h4>{{ $el.title }}</h4>
+                <div>
+                  {{ range $el.description }}
+                  <p>{{ . }}</p>
+                  {{ end }}
+                </div>
+              </div>
+            </div>
+            {{ end }}
+          </div>
         </div>
-    </div>
+      </div>
 </section>

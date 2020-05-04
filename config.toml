@@ -42,9 +42,9 @@ publishDir = "docs"
         # Copy your own image into './static/img/'' if you wish
         image = "profile.jpg"
         name = "Tomás Pinho"
-        subtitle = "SysAdmin/DevOps Engineer"
+        subtitle = "SRE/DevOps Engineer"
         description = [
-"I am a Computer and Informatics Engineer based in Lisbon, Portugal, tech enthusiast, DIYer, music lover and reader.",
+"SRE/DevOps Engineer based in Lisbon, Portugal. Interested in most things tech, music and DYI.",
 
 "Check out my <a href=\"cv-en.pdf\" target=\"_blank\">CV <i class=\"fa fa-file-pdf-o red\"></i></a>"
         ]

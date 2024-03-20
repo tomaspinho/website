@@ -28,7 +28,7 @@ publishDir = "docs"
     email = ""
 
     # Custom assets
-	custom_css = []
+	custom_css = ["custom.css"]
     custom_js  = []
 
     # Analytics

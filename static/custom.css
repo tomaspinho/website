@@ -1,0 +1,11 @@
+#privacy-policy h1 {
+  margin-top: 2rem;
+}
+
+#privacy-policy h2 {
+  margin-top: 4rem;
+}
+
+#privacy-policy h2 + p {
+  margin-top: 2rem;
+}

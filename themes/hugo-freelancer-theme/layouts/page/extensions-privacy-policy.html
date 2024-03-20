@@ -7,10 +7,9 @@
 
         {{ partial "nav.html" . }}
 
-        <section id="privacy-policy">
+        <section id="privacy-policy" style="margin-top: 4rem;">
           <div class="container">
-            <h1>Privacy Policy</h1>
-            <p>We don't collect any user data as part of our Web Extensions.</p>
+            {{ .Content }}
           </div>
         </section>
 

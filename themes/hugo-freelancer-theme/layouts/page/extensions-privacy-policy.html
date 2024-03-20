@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+    <head>
+        {{ partial "head.html" . }}
+    </head>
+    <body id="page-top" class="index">
+
+        {{ partial "nav.html" . }}
+
+        <section id="privacy-policy">
+          <div class="container">
+            <h1>Privacy Policy</h1>
+            <p>We don't collect any user data as part of our Web Extensions.</p>
+          </div>
+        </section>
+
+        {{ partial "footer.html" . }}
+
+    </body>
+</html>

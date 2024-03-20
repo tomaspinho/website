@@ -6,9 +6,9 @@
 {{ hugo.Generator }}
 <title>{{ .Site.Title }}</title>
 {{ "<!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->" | safeHTML }}
-<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="{{ "css/bootstrap.min.css" | relURL }}" rel="stylesheet">
 {{ "<!-- Custom CSS -->" | safeHTML }}
-<link href="css/freelancer.css" rel="stylesheet">
+<link href="{{ "css/freelancer.css" | relURL }}" rel="stylesheet">
 {{ range .Site.Params.custom_css }}
 <link rel="stylesheet" href="{{ . | absURL }}">
 {{ end }}

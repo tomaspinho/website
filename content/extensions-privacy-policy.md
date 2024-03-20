@@ -1,0 +1,3 @@
+---
+layout: extensions-privacy-policy
+---

@@ -4,7 +4,7 @@
     <title>Tomás Pinho</title>
     <link>https://www.tomaspinho.com/</link>
     <description>Recent content on Tomás Pinho</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://www.tomaspinho.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,14 +12,14 @@
       <link>https://www.tomaspinho.com/apps-privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.tomaspinho.com/apps-privacy-policy/</guid>
-      <description>Apps Privacy Policies M Sul The M Sul mobile extension does not collect, process or otherwise use any personal information.</description>
+      <description>&lt;h1 id=&#34;apps-privacy-policies&#34;&gt;Apps Privacy Policies&lt;/h1&gt;&#xA;&lt;h2 id=&#34;m-sul&#34;&gt;M Sul&lt;/h2&gt;&#xA;&lt;p&gt;The M Sul mobile extension does not collect, process or otherwise use any personal information.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://www.tomaspinho.com/extensions-privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.tomaspinho.com/extensions-privacy-policy/</guid>
-      <description>Extensions Privacy Policies Sane Notion The Sane Notion web extension does not collect, process or otherwise use any personal information. Sane Notion merely interacts, modifies or reads Notion pages where its enabled in order to increase the accessibility of existing Notion features.</description>
+      <description>&lt;h1 id=&#34;extensions-privacy-policies&#34;&gt;Extensions Privacy Policies&lt;/h1&gt;&#xA;&lt;h2 id=&#34;sane-notion&#34;&gt;Sane Notion&lt;/h2&gt;&#xA;&lt;p&gt;The Sane Notion web extension does not collect, process or otherwise use any personal information. Sane Notion merely interacts, modifies or reads Notion pages where its enabled in order to increase the accessibility of existing Notion features.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
